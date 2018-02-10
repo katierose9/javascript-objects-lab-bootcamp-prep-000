@@ -21,6 +21,6 @@ function deleteFromObjectByKey(obj, key) {
 
   delete obj[key];
 
-  return ob
+  return obj
 
 }
