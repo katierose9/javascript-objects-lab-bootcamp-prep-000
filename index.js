@@ -19,4 +19,6 @@ function destructivelyUpdateObjectWithKeyAndValue(obj, key, value) {
 
 function deleteFromObjectByKey(obj, key) {
   delete recipies.key;
+
+  return obj
 }
